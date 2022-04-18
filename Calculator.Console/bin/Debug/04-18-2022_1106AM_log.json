@@ -1,0 +1,18 @@
+{
+  "inputNumbers": [
+    10000.0,
+    3.0,
+    4.0
+  ],
+  "Operator": 2,
+  "calculatorResult": 9993.0,
+  "calculatorException": null
+}{
+  "inputNumbers": [
+    9000000000.0,
+    999999999999999999999999999.0
+  ],
+  "Operator": 1,
+  "calculatorResult": 9000000000.0,
+  "calculatorException": "Value was either too large or too small for a Decimal."
+}
