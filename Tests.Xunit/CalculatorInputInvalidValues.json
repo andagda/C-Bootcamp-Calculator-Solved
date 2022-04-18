@@ -1,0 +1,22 @@
+{
+	"InputDataArray": [
+		{
+			"Numbers": [
+				a,
+				2.2,
+				3,
+				4,
+				5
+			],
+			"Operation": "+"
+		},
+		{
+			"Numbers": [
+				5.5,
+				15,
+				10
+			],
+			"Operation": "+"
+		}
+	]
+}
